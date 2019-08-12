@@ -47,3 +47,7 @@ variable cis_origin3_address {
   description = "Internet Services origin address for origin3 Ex) 127.0.0.1"
   default     = ""
 }
+
+variable testvar {
+  default     = ""
+}
