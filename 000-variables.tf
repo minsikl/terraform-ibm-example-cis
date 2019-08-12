@@ -1,5 +1,5 @@
 variable cis_name {
-  description = "Internet Services name"
+  description = ""
   default     = ""
 }
 
